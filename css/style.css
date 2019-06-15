@@ -3,19 +3,13 @@ header {
     width: 1400px;
     margin: auto;
     background-color: #dcdcdc;
+    position: relative;
 }
 
 .logo-margin {
     margin-left: 210px;
     margin-top: 65px;
-}
-
-.feedback2 {
-    color: #767676;
-    font-size: 24px;
-    font-family: 'PT Sans', sans-serif;
-
-
+    position: absolute;
 }
 
 .feedback {
@@ -24,4 +18,21 @@ header {
     color: rgb(118, 118, 118);
     text-align: right;
     right: 200px;
+    position: absolute;
+    line-height: 1.15;
+    background-color: aquamarine;
+}
+
+._7_499__777_77_77__7_499__777_77_77 {
+    font-size: 40px;
+    font-family: "OpenSans";
+    color: rgb(118, 118, 118);
+    line-height: 1.15;
+    text-align: right;
+    position: absolute;
+    left: 840.069px;
+    top: 86.176px;
+    width: 256px;
+    height: 81px;
+    z-index: 72;
 }
