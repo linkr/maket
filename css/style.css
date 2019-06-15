@@ -1,0 +1,27 @@
+header {
+    height: 230px;
+    width: 1400px;
+    margin: auto;
+    background-color: #dcdcdc;
+}
+
+.logo-margin {
+    margin-left: 210px;
+    margin-top: 65px;
+}
+
+.feedback2 {
+    color: #767676;
+    font-size: 24px;
+    font-family: 'PT Sans', sans-serif;
+
+
+}
+
+.feedback {
+    font-size: 40px;
+    font-family: 'PT Sans', sans-serif;
+    color: rgb(118, 118, 118);
+    text-align: right;
+    right: 200px;
+}
