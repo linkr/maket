@@ -18,21 +18,13 @@ header {
     color: rgb(118, 118, 118);
     text-align: right;
     right: 200px;
-    position: absolute;
     line-height: 1.15;
-    background-color: aquamarine;
+    margin-right: 210px;
+    padding-top: 24px;
+
+
 }
 
-._7_499__777_77_77__7_499__777_77_77 {
-    font-size: 40px;
-    font-family: "OpenSans";
-    color: rgb(118, 118, 118);
-    line-height: 1.15;
-    text-align: right;
-    position: absolute;
-    left: 840.069px;
-    top: 86.176px;
-    width: 256px;
-    height: 81px;
-    z-index: 72;
+.lineheader {
+    border-bottom: 3px dashed;
 }
