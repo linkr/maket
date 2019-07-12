@@ -42,3 +42,11 @@ header {
 
 }
 
+aside{
+  float: left;
+}
+
+.page_body{
+  float: right;
+}
+
