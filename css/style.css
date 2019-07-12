@@ -1,5 +1,5 @@
 header {
-    height: 230px;
+    height: 220px;
     width: 1400px;
     margin: auto;
     background-color: #dcdcdc;
@@ -21,10 +21,24 @@ header {
     line-height: 1.15;
     margin-right: 210px;
     padding-top: 24px;
-
-
 }
 
 .lineheader {
     border-bottom: 3px dashed;
 }
+
+.navigation_block{
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  background-color: rgb(119, 119, 119);
+}
+
+.nav_link_item{
+  margin-right: 20px;
+  font-size: 30px;
+  font-family: 'PT Sans', sans-serif;
+  color: rgb(255, 255, 255);
+
+}
+
